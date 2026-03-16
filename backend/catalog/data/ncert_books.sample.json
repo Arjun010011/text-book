@@ -1,0 +1,15 @@
+[
+  {
+    "provider_key": "ncert",
+    "provider_name": "NCERT",
+    "board": "CBSE",
+    "title": "Mathematics",
+    "grade": "10",
+    "subject": "Mathematics",
+    "language": "English",
+    "medium": "English",
+    "syllabus": "CBSE",
+    "download_url": "https://official-ncert-link/example.pdf",
+    "source_url": "https://official-ncert-link/"
+  }
+]
